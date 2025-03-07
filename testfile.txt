@@ -1,0 +1,4 @@
+- testcardinal is sufficient because it passed all testing when I develop the code
+- testsqueeze is also sufficient because it follows testing procedures. 
+- test was done accurately 
+-input and  output reflect my work

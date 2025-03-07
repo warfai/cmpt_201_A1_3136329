@@ -1,0 +1,3 @@
+my name is abdirahman
+this is assignment 1
+this is also an input file
